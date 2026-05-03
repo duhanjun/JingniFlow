@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
 
-from JingNiTrader.jingnitrader import *
+from JingniFlow.jingniflow import *

@@ -17,6 +17,6 @@ def handlebar(ContextInfo):
 
 
 ###################################
-# 以下为JingniTrader量化交易系统代码#
-# 将jingnitrader.py的代码复制到尾部#
+# 以下为JingniFlow量化交易系统代码#
+# 将jingniflow.py的代码复制到尾部#
 ###################################
