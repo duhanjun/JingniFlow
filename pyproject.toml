@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "jingniflow"
 dynamic = ["version"]
-description = "JingniFlow - 中国券商量化交易统一框架"
+description = "JingniFlow是一个基于Python的量化交易开发框架，致力于提供兼容中国券商交易软件的量化解决方案。"
 readme = "README.md"
 authors = [
     { name = "Hanjun Du", email = "hanjun.du@outlook.com" }
