@@ -1,9 +1,0 @@
-# -*- coding: utf-8 -*-
-
-"""
-JingniFlow - 中国券商量化交易统一框架
-让量化交易流动起来
-"""
-
-__version__ = "0.1.16"
-__author__ = "Hanjun Du"

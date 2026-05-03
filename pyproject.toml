@@ -48,10 +48,7 @@ Repository = "https://github.com/duhanjun/JingniFlow.git"
 Issues = "https://github.com/duhanjun/JingniFlow/issues"
 
 [tool.setuptools]
-packages = ["jingniflow"]
-
-[tool.setuptools.package-dir]
-jingniflow = "."
+py-modules = ["jingniflow"]
 
 [tool.black]
 line-length = 88
